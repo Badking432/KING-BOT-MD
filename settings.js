@@ -12,9 +12,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94729352830']
-global.premium = ['94729352830']
-global.ownernomer = '94729352830'
+global.owner = ['94705865512']
+global.premium = ['94705865512']
+global.ownernomer = '94705865512'
 global.ownername = '𝗔yesh 𝗗'
 global.botname = '[🇱🇰яєѕтєя⭐🎆]'
 global.footer = '</> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʙᴏᴛ </>️ ▷'
